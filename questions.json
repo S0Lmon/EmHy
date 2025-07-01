@@ -1,0 +1,702 @@
+[
+  {
+    "Id": 1,
+    "Unit": "Traditional Performing Arts",
+    "Question": "The offspring of ______ , different forms of traditional Vietnamese theatre have flourished over the years, each with their own unique flavour.",
+    "Options": [
+      "Chinese Opera",
+      "Kim Van Kieu",
+      "Acrobatics",
+      "Fans"
+    ],
+    "CorrectAnswer": 0,
+    "Explanation": "The correct answer is Chinese Opera.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 2,
+    "Unit": "Ca Tru",
+    "Question": "______ is the greatest master of the 20th century Vietnamese CA TRU ART.",
+    "Options": [
+      "Quach Thi Ho",
+      "Nguyen Thi Cuc",
+      "15th",
+      "2009"
+    ],
+    "CorrectAnswer": 0,
+    "Explanation": "The correct answer is Quach Thi Ho.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 3,
+    "Unit": "Ca Tru",
+    "Question": "Ca Tru was popular in which century?",
+    "Options": [
+      "2009",
+      "15th",
+      "10th",
+      "19th"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is 15th.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 4,
+    "Unit": "Ca Tru",
+    "Question": "Which traditional music form used to be a royal song?",
+    "Options": [
+      "Cheo",
+      "Tuong",
+      "Ca Tru",
+      "Cai Luong"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Ca Tru.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 5,
+    "Unit": "General Vocabulary",
+    "Question": "What is the Vietnamese word for 'pinnacle'?",
+    "Options": [
+      "đỉnh cao",
+      "thuốc phiện",
+      "đồ sơn mài",
+      "nho giáo"
+    ],
+    "CorrectAnswer": 0,
+    "Explanation": "The correct answer is đỉnh cao.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 6,
+    "Unit": "Ca Tru",
+    "Question": "Who are the pinnacles of Ca Tru in Hanoi?",
+    "Options": [
+      "Pham Thi Tran",
+      "Quach Thi Ho, Nguyen Thi Cuc, Pho Kim Duc, Dinh Khac Ban",
+      "Nhat Linh, Khai Hung",
+      "Nguyen Cong Hoan, Vu Trong Phung"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is Quach Thi Ho, Nguyen Thi Cuc, Pho Kim Duc, Dinh Khac Ban.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 7,
+    "Unit": "Ca Tru",
+    "Question": "Ca Tru was registered as an intangible heritage in which year?",
+    "Options": [
+      "2009",
+      "1975",
+      "1865",
+      "1414"
+    ],
+    "CorrectAnswer": 0,
+    "Explanation": "The correct answer is 2009.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 8,
+    "Unit": "Tuong",
+    "Question": "Tuồng has the class (people) of classical art and the best what in Vietnam?",
+    "Options": [
+      "drama",
+      "facial expressions",
+      "scholar",
+      "folk"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is scholar.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 9,
+    "Unit": "Tuong",
+    "Question": "Tuong was formed on the basis of singing, dancing, music and ______ performances.",
+    "Options": [
+      "folk",
+      "royal",
+      "modern",
+      "religious"
+    ],
+    "CorrectAnswer": 0,
+    "Explanation": "The correct answer is folk.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 10,
+    "Unit": "Tuong",
+    "Question": "Tuong stage uses ______ and colors to distinguish the character's role (red represents the role of a loyalist, gray is flattery, ...)",
+    "Options": [
+      "masks",
+      "costumes",
+      "facial expressions",
+      "lighting"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is facial expressions.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 11,
+    "Unit": "Cheo",
+    "Question": "What is the ancestral land of Cheo?",
+    "Options": [
+      "Hanoi",
+      "Hue",
+      "Hoa Lu",
+      "Saigon"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Hoa Lu.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 12,
+    "Unit": "Cheo",
+    "Question": "The skillful combination of singing, dancing, music, and ______ in Cheo is extremely unique.",
+    "Options": [
+      "acrobatics",
+      "puppetry",
+      "drama",
+      "poetry"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is drama.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 13,
+    "Unit": "Cheo",
+    "Question": "Who is the founder of Cheo? She was a talented dancer in the Dinh royal palace in the 10th century.",
+    "Options": [
+      "Quach Thi Ho",
+      "Pham Thi Tran",
+      "Nguyen Thi Cuc",
+      "Au Co"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is Pham Thi Tran.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 14,
+    "Unit": "Cheo",
+    "Question": "Is Quan Am Thi Kinh an example of Cheo, Tuong, or Cai Luong?",
+    "Options": [
+      "Tuong",
+      "Cai Luong",
+      "Ca Tru",
+      "Cheo"
+    ],
+    "CorrectAnswer": 3,
+    "Explanation": "The correct answer is Cheo.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 15,
+    "Unit": "Cai Luong",
+    "Question": "In 1918, Master Nam Tu opened the sign 'Ganh Hat Thay Nam Tu My Tho' and released the first reformed play named ______.",
+    "Options": [
+      "Quan Am Thi Kinh",
+      "Binh Ngo Dai Cao",
+      "Kim Van Kieu",
+      "Thuy Kieu"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Kim Van Kieu.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 16,
+    "Unit": "Traditional Dances",
+    "Question": "Traditional dance: as the name suggests, 4 or 5 dancers dance with beautiful ______ as a part of the fan dance.",
+    "Options": [
+      "hats",
+      "fans",
+      "ribbons",
+      "scarves"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is fans.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 17,
+    "Unit": "Traditional Dances",
+    "Question": "The fan dance is meant to delight the audience while the dancers imitate ______ gliding gently on the breeze.",
+    "Options": [
+      "birds",
+      "butterflies",
+      "flowers",
+      "leaves"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is flowers.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 18,
+    "Unit": "Traditional Dances",
+    "Question": "Dragon/Lion Dance: The yellow and red dragon is a well-known Chinese motif that signifies ______ and good fortune.",
+    "Options": [
+      "love",
+      "power",
+      "wisdom",
+      "peace"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is power.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 19,
+    "Unit": "Traditional Dances",
+    "Question": "The Dragon/Lion dance has been adapted into Vietnamese culture, and is a common sight on Vietnamese festivals as well as events like ______.",
+    "Options": [
+      "weddings",
+      "funerals",
+      "business openings",
+      "birthdays"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is business openings.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 20,
+    "Unit": "Traditional Dances",
+    "Question": "The Dragon/Lion dance is usually accompanied by ______ and martial arts.",
+    "Options": [
+      "singing",
+      "poetry",
+      "magic tricks",
+      "acrobatics"
+    ],
+    "CorrectAnswer": 3,
+    "Explanation": "The correct answer is acrobatics.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 21,
+    "Unit": "Water Puppetry",
+    "Question": "Vietnamese Water puppetry is a tradition that dates back as far as the ______ century CE.",
+    "Options": [
+      "9th",
+      "10th",
+      "11th",
+      "12th"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is 11th.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 22,
+    "Unit": "Water Puppetry",
+    "Question": "THUY DINH (WATER PUPPET CHAMBER): Was built in the middle of a ______ , representing the roof of a rural communal house.",
+    "Options": [
+      "river",
+      "lake",
+      "pond",
+      "field"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is pond.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 23,
+    "Unit": "Water Puppetry",
+    "Question": "What are the puppets used in water puppetry a product of?",
+    "Options": [
+      "industrial manufacturing",
+      "folk wood carving art",
+      "3D printing",
+      "clay modeling"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is folk wood carving art.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 24,
+    "Unit": "Water Puppetry",
+    "Question": "The shape of the puppet is ______ , funny, and highly symbolic.",
+    "Options": [
+      "realistic",
+      "fresh",
+      "abstract",
+      "simple"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is fresh.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 25,
+    "Unit": "Water Puppetry",
+    "Question": "What are the two main parts of a water puppet's structure?",
+    "Options": [
+      "Head and strings",
+      "Body and costume",
+      "A body floating on the water and a controller mounting base",
+      "Arms and legs"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is A body floating on the water and a controller mounting base.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 26,
+    "Unit": "Water Puppetry",
+    "Question": "The water puppet chamber is equipped like a miniature village communal ______.",
+    "Options": [
+      "market",
+      "temple",
+      "house",
+      "garden"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is house.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 27,
+    "Unit": "Water Puppetry",
+    "Question": "What element hides all the secrets of puppetry, making the puppet's movements more fluid?",
+    "Options": [
+      "The stage curtain",
+      "The dark lighting",
+      "The artisan's skill",
+      "Water"
+    ],
+    "CorrectAnswer": 3,
+    "Explanation": "The correct answer is Water.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 28,
+    "Unit": "Water Puppetry",
+    "Question": "The controller is hidden in the water, with the ______ standing in a room with a pole or rope system.",
+    "Options": [
+      "audience",
+      "musician",
+      "artisan",
+      "narrator"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is artisan.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 29,
+    "Unit": "Holidays",
+    "Question": "What event is celebrated on April 30th?",
+    "Options": [
+      "New Year's Day",
+      "Liberation Day",
+      "National Day",
+      "King Hung's Commemoration"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is Liberation Day.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 30,
+    "Unit": "Holidays",
+    "Question": "What event is celebrated on May 1st?",
+    "Options": [
+      "Teacher's Day",
+      "Children's Day",
+      "International Worker's Day",
+      "Women's Day"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is International Worker's Day.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 31,
+    "Unit": "Social Structure & Family",
+    "Question": "The nuclear, two-generation family has been increasingly prevalent since when?",
+    "Options": [
+      "1945",
+      "1954",
+      "1975",
+      "1990"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is 1975.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 32,
+    "Unit": "Social Structure & Family",
+    "Question": "One of the reasons for the increase of nuclear families is the desire for a ______ and a freer environment.",
+    "Options": [
+      "large house",
+      "job",
+      "car",
+      "title"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is job.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 33,
+    "Unit": "Social Structure & Family",
+    "Question": "The Government's family planning policy encouraged the ideal of a nuclear family with how many children?",
+    "Options": [
+      "one",
+      "two",
+      "three",
+      "four or more"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is two.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 34,
+    "Unit": "Social Structure & Family",
+    "Question": "Nuclear families have encountered resistance due to traditional patriarchal influence and the desire of young couples through their _____.",
+    "Options": [
+      "parents",
+      "careers",
+      "children",
+      "siblings"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is children.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 35,
+    "Unit": "Social Structure & Family",
+    "Question": "The customs and values that once defined the Vietnamese family have suffered from the intrusion of the ______.",
+    "Options": [
+      "agricultural revolution",
+      "digital age",
+      "modern industrial world",
+      "foreign political systems"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is the modern industrial world.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 36,
+    "Unit": "Social Structure & Family",
+    "Question": "Each household is provided with a family registry that provides the ______ for the household members.",
+    "Options": [
+      "proof of income",
+      "voting rights",
+      "residency proof",
+      "health insurance"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is residency proof.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 37,
+    "Unit": "Social Structure & Family",
+    "Question": "What is the Vietnamese term for 'a family registry'?",
+    "Options": [
+      "sổ đỏ",
+      "giấy khai sinh",
+      "sổ hộ khẩu",
+      "chứng minh nhân dân"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is sổ hộ khẩu.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 38,
+    "Unit": "Social Structure & Family",
+    "Question": "The onerous tradition of 'lam dau' and the wickedness of the ______, is no longer tolerated.",
+    "Options": [
+      "mother",
+      "sister-in-law",
+      "mother-in-law",
+      "father-in-law"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is mother-in-law.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 39,
+    "Unit": "Social Structure & Family",
+    "Question": "What are the four types of violent behavior against Vietnamese women?",
+    "Options": [
+      "Verbal, physical, social, economic",
+      "Physical, sexual, emotional, financial",
+      "Psychological, physical, educational, spiritual",
+      "Public, private, online, offline"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is physical, sexual, emotional, financial.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 40,
+    "Unit": "Social Structure & Family",
+    "Question": "Nearly what percentage of Vietnamese women have experienced violence?",
+    "Options": [
+      "45%",
+      "52%",
+      "63%",
+      "71%"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is 63%.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 41,
+    "Unit": "Social Structure & Family",
+    "Question": "1 in 10 women experience sexual violence by another person since the age of ______ (according to 2019 statistics).",
+    "Options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is 15.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 42,
+    "Unit": "Social Structure & Family",
+    "Question": "______ out of 3 women have experienced at least one form of violence by a husband/partner.",
+    "Options": [
+      "1",
+      "2",
+      "All 3",
+      "None"
+    ],
+    "CorrectAnswer": 1,
+    "Explanation": "The correct answer is 2.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 43,
+    "Unit": "Social Structure & Family",
+    "Question": "What are some consequences of violent behavior towards women?",
+    "Options": [
+      "Economic growth and family unity",
+      "Stronger social bonds",
+      "Impact on kids, broken family, mental hurts, disturb social order",
+      "Increased community participation"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is impact on kids, broken family, mental hurts, disturb social order.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 44,
+    "Unit": "Generations",
+    "Question": "2000 generation: Innovations in Technology and More ______.",
+    "Options": [
+      "Local",
+      "Traditional",
+      "Global",
+      "Isolated"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Global.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 45,
+    "Unit": "Generations",
+    "Question": "2000 generation: Under Influence by internet and _____.",
+    "Options": [
+      "family",
+      "teachers",
+      "celebrity",
+      "politicians"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is celebrity.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 46,
+    "Unit": "Generations",
+    "Question": "2000 generation: Prefer ______ brands, Eager to stand out.",
+    "Options": [
+      "local",
+      "unbranded items",
+      "well-known",
+      "second-hand"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is well-known.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 47,
+    "Unit": "Generations",
+    "Question": "What is one characteristic of the 2000 generation's demands?",
+    "Options": [
+      "Less demanding",
+      "Easily satisfied",
+      "More demanding",
+      "No demands"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is More demanding.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 48,
+    "Unit": "Generations",
+    "Question": "2000 generation: ______ wealth orientated, many Insecurities and Worries.",
+    "Options": [
+      "Spiritual",
+      "Community",
+      "Material",
+      "Experience"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Material.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 49,
+    "Unit": "Generations",
+    "Question": "What are two characteristics of the Vietnam Young Generation?",
+    "Options": [
+      "Relaxed and traditional",
+      "Resistant to foreign languages and low pressure",
+      "Under constant pressure, Trend To Learn Multiple Foreign Languages",
+      "Focused only on local culture and avoiding technology"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Under constant pressure, Trend To Learn Multiple Foreign Languages.",
+    "Vocabulary": []
+  },
+  {
+    "Id": 50,
+    "Unit": "Food, Drink & Customs",
+    "Question": "What was the main drink from the pre-colonial era?",
+    "Options": [
+      "Coffee",
+      "Beer",
+      "Tea",
+      "Wine"
+    ],
+    "CorrectAnswer": 2,
+    "Explanation": "The correct answer is Tea.",
+    "Vocabulary": []
+  }
+]

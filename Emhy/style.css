@@ -1,0 +1,266 @@
+/* Import font Quicksand - tương tự font Quizlet hay dùng */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #f6f7fb; /* Màu nền xám rất nhạt */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* --- Các màn hình chính --- */
+.start-screen,
+.score-container,
+#display-container {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+    padding: 30px 40px;
+    width: 100%;
+}
+
+.start-screen,
+.score-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    text-align: center;
+}
+
+#display-container {
+    max-width: 800px;
+}
+
+.hide {
+    display: none;
+}
+
+/* --- Nút bấm --- */
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 700;
+    transition: all 0.2s ease;
+}
+
+#start-button,
+#restart,
+#next-button {
+    background-color: #4255ff; /* Màu xanh dương đặc trưng của Quizlet */
+    color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#start-button:hover,
+#restart:hover,
+#next-button:hover {
+    background-color: #3b4de0;
+    transform: translateY(-2px);
+}
+
+#restart {
+    margin-top: 25px;
+}
+
+.header-btn {
+    background-color: #f6f7fb;
+    color: #586380;
+    padding: 10px 15px;
+    font-size: 14px;
+}
+
+.header-btn:hover {
+    background-color: #e9ecf2;
+}
+
+#quit-btn {
+    background-color: #ff7b6b;
+    color: #fff;
+}
+
+#quit-btn:hover {
+    background-color: #f86a5a;
+}
+
+/* --- Màn hình làm bài thi --- */
+.header {
+    display: flex;
+    justify-content: flex-start; /* Change to flex-start */
+    align-items: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e9ecf2;
+    margin-bottom: 25px;
+}
+
+.number-of-count {
+    margin-left: auto; /* Push this to the right */
+}
+
+#quit-btn {
+    margin-left: 20px; /* Add some space */
+}
+
+.timer-div {
+    background-color: #e6f4ff;
+    color: #4255ff;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.timer-div img {
+    margin-right: 8px;
+}
+
+.question {
+    font-size: 22px;
+    font-weight: 600;
+    color: #303545;
+    margin-bottom: 25px;
+}
+
+.option-div {
+    background-color: #fff;
+    border: 2px solid #e9ecf2;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    color: #303545;
+}
+
+.option-div:hover {
+    border-color: #a9b3ff;
+}
+
+.option-div:disabled {
+    cursor: not-allowed;
+}
+
+.correct {
+    background-color: #c8f0e0;
+    color: #0c685c;
+    border-color: #20c997;
+}
+
+.incorrect {
+    background-color: #ffdce0;
+    color: #a82037;
+    border-color: #ff7b6b;
+}
+
+#next-button {
+    float: right;
+    margin-top: 20px;
+}
+
+/* --- Màn hình kết quả --- */
+#user-score {
+    font-size: 48px;
+    font-weight: 700;
+    color: #20c997; /* Màu xanh lá cho điểm số */
+}
+
+#explanation-container {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f6f7fb;
+    border-radius: 8px;
+    font-style: normal;
+    color: #586380;
+    text-align: left;
+}
+
+#vocabulary-section {
+    margin-top: 30px;
+    padding: 20px;
+    border-top: 1px solid #e9ecf2;
+    text-align: left;
+    width: 100%;
+}
+
+#vocabulary-section h3 {
+    font-size: 20px;
+    color: #303545;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#vocabulary-list {
+    max-height: 220px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+.vocab-item {
+    padding: 12px 0;
+    border-bottom: 1px solid #e9ecf2;
+    font-size: 16px;
+    color: #586380;
+}
+
+.vocab-item:last-child {
+    border-bottom: none;
+}
+
+.vocab-item strong {
+    font-weight: 700;
+    color: #4255ff;
+}
+
+#incorrect-answers-section {
+    margin-top: 30px;
+    padding: 20px;
+    border-top: 1px solid #e9ecf2;
+    text-align: left;
+    width: 100%;
+}
+
+#incorrect-answers-section h3 {
+    font-size: 20px;
+    color: #303545;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#incorrect-answers-list {
+    max-height: 220px;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+.incorrect-answer-item {
+    padding: 12px 0;
+    border-bottom: 1px solid #e9ecf2;
+    font-size: 16px;
+    color: #586380;
+}
+
+.incorrect-answer-item:last-child {
+    border-bottom: none;
+}
+
+.incorrect-answer-item strong {
+    font-weight: 700;
+    color: #ff7b6b;
+}

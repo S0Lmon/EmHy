@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <title>IP Law & Anti-Corruption Quiz</title>
+</head>
+<body>
+    <div class="start-screen">
+        <button id="start-button">Bắt đầu</button>
+    </div>
+
+    <div id="display-container" class="hide">
+        <div class="header">
+            <div class="number-of-count">
+                <span class="number-of-question">1 of 50 Questions</span>
+            </div>
+            <button id="quit-btn" class="header-btn">Thoát</button>
+            <div class="timer-div">
+                <img src="https://cdn-icons-png.flaticon.com/512/149/149313.png" width="20px" />
+                <span class="time-left">72s</span>
+            </div>
+        </div>
+        <div id="container">
+            </div>
+        
+        <div id="explanation-container" class="hide">
+            <p id="explanation-text"></p>
+        </div>
+
+        <button id="next-button">Câu tiếp theo</button>
+    </div>
+
+    <div class="score-container hide">
+        <div id="user-score">Your Score: 0</div>
+        
+        <div id="vocabulary-section" class="hide"> 
+            <h3>Vocabulary from this Quiz</h3>
+            <div id="vocabulary-list">
+                </div>
+        </div>
+
+        <div id="incorrect-answers-section" class="hide">
+            <h3>Incorrect Answers</h3>
+            <div id="incorrect-answers-list">
+            </div>
+        </div>
+
+        <button id="restart">Làm lại</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
